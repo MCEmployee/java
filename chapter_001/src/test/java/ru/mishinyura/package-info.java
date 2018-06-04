@@ -1,5 +1,5 @@
 /**
- * Package for chapter_001.
+ * Test package for chapter_001.
  *
  * @author Mishin Yura (mishin.inbox@gmail.com)
  * @version $Id$
