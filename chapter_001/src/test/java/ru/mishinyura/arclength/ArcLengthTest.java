@@ -16,8 +16,10 @@ public class ArcLengthTest {
      */
     @Test
     public void whenCircleLength() {
+        ArcLength arcLength = new ArcLength();
+
         double expected = 31.4159;
-        double actual = ArcLength.circleLength(5);
+        double actual = arcLength.circleLength(5);
 
         assertEquals(expected, actual, 0.1);
     }
