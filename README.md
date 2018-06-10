@@ -4,4 +4,5 @@
 
 Welcome to Yura Mishin's Java repository.
 
-Репозиторий Юры Мишина.
+[Chapter 1. Java SE](https://github.com/MishinCorp/java/tree/master/chapter_001)
+
