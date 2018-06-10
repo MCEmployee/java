@@ -44,7 +44,8 @@ public class HelloTest {
      */
     @Test
     public void whenHelloThenShowGreeting() {
-        Hello.greet();
+        Hello hello = new Hello();
+        hello.greet();
 
         assertThat(
                 new String(out.toByteArray()),

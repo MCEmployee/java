@@ -6,17 +6,11 @@ package ru.mishinyura.helloworld;
  * @author Mishin Yura (mishin.inbox@gmail.com)
  * @since 04.06.2018
  */
-public final class Hello {
-    /**
-     * Конструктор.
-     */
-    private Hello() {
-    }
-
+public class Hello {
     /**
      * Метод выводит в консоль приветствие.
      */
-    public static void greet() {
+    public final void greet() {
         System.out.println("Hello, World !");
     }
 }
