@@ -13,7 +13,7 @@ import static org.hamcrest.Matchers.is;
  */
 public class SquareTest {
     /**
-     * Тест метода...
+     * Тест метода sqrt().
      */
     @Test
     public void whenNumberThenSquare() {
