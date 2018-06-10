@@ -43,7 +43,9 @@ public class StrFormatTest {
      */
     @Test
     public void whenPrintFormat() {
-        StrFormat.printFormat(5);
+        StrFormat strFormat = new StrFormat();
+
+        strFormat.printFormat(5);
 
         assertThat(
                 new String(out.toByteArray()),
