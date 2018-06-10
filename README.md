@@ -4,7 +4,7 @@
 
 Welcome to Yura Mishin's Java repository.
 
-![Photo](https://github.com/MCEmployee/java/blob/master/avatar.jpg)
+![Photo](https://github.com/MCEmployee/java/blob/master/img/avatar.jpg)![Photo](https://github.com/MCEmployee/java/blob/master/img/java_logo.jpg)
 
 [Chapter 1. Java SE](https://github.com/MishinCorp/java/tree/master/chapter_001)
 
