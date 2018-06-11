@@ -9,12 +9,17 @@ package ru.mishinyura.celsiumtofahrenheit;
  */
 public class CelsiumToFahrenheit {
     /**
+     * Литералы для расчёта.
+     */
+    private static final int FIRST = 9, SECOND = 5, THIRD = 32;
+
+    /**
      * Метод переводит градусы Цельсия в градусы Фаренгейта.
      *
      * @param celsium Градусы Цельсия.
      * @return Градусы Фаренгейта.
      */
     public final double convertCelsiumToFahrenheit(final int celsium) {
-        return (double) (celsium * 9) / 5 + 32;
+        return (double) (celsium * FIRST) / SECOND + THIRD;
     }
 }
