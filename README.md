@@ -4,12 +4,12 @@
 
 Welcome to Yura Mishin's Java repository.
 
-![Photo](https://github.com/MCEmployee/java/blob/master/img/avatar.jpg)![Photo](https://github.com/MCEmployee/java/blob/master/img/java_logo.jpg)
+![Photo](https://github.com/MishinCorp/java/blob/master/img/avatar.jpg)![Photo](https://github.com/MishinCorp/java/blob/master/img/java_logo.jpg)
 
 [Chapter 1. Java SE](https://github.com/MishinCorp/java/tree/master/chapter_001)
 
 ##### Resources
 + [Oracle Help Center](https://docs.oracle.com/)
 + [Head First Java](https://www.oreilly.com/library/view/head-first-java/0596009208/)
-+ [Thinking in Java](https://en.wikipedia.org/wiki/Thinking_in_Java)
++ [Thinking in Java](https://en.wikipedia.org/wiki/Thinking_in_Java/)
 
