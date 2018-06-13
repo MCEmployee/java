@@ -12,6 +12,9 @@ import static org.hamcrest.Matchers.is;
  * @since 11.06.2018
  */
 public class RandomNumberTest {
+    /**
+     * Тест метода getNumber().
+     */
     @Test
     public void whenGetNumber() {
         RandomNumber randomNumber = new RandomNumber();
