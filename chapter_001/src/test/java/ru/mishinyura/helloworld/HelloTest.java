@@ -14,7 +14,6 @@ import static org.hamcrest.Matchers.is;
  * Класс HelloTest тестирует класс Hello.
  *
  * @author Mishin Yura (mishin.inbox@gmail.com)
- * @version $Id$
  * @since 04.06.2018
  */
 public class HelloTest {
