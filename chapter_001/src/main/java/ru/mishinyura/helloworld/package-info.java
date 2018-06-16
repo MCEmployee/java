@@ -2,7 +2,6 @@
  * Package helloworld.
  *
  * @author Mishin Yura (mishin.inbox@gmail.com)
- * @version $Id$
- * @since 0.1
+ * @since 04.06.2018
  */
 package ru.mishinyura.helloworld;
