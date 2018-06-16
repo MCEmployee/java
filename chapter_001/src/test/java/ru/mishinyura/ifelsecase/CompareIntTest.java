@@ -11,8 +11,8 @@ public class CompareIntTest {
      */
     @Test
     public void whenCompareThenResult() {
-        assertThat(CompareInt.compare(3, 5), is(-1));
-        assertThat(CompareInt.compare(5, 5), is(0));
-        assertThat(CompareInt.compare(7, 5), is(1));
+        assertThat(new CompareInt().compare(3, 5), is(-1));
+        assertThat(new CompareInt().compare(5, 5), is(0));
+        assertThat(new CompareInt().compare(7, 5), is(1));
     }
 }

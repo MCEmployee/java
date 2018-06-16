@@ -8,20 +8,13 @@ package ru.mishinyura.ifelsecase;
  */
 public final class CompareInt {
     /**
-     * Констуктор.
-     */
-    private CompareInt() {
-        throw new UnsupportedOperationException();
-    }
-
-    /**
      * Метод сравнивает два целых числа.
      *
      * @param a Первое число.
      * @param b Второе число.
      * @return Результат.
      */
-    public static int compare(final int a, final int b) {
+    public int compare(final int a, final int b) {
         return Integer.compare(a, b);
     }
 }
