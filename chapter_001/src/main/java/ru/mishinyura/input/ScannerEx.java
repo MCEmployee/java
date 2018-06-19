@@ -8,12 +8,12 @@ package ru.mishinyura.input;
  * @author Mishin Yura (mishin.inbox@gmail.com)
  * @since 16.06.2018
  */
-public final class ScannerEx {
-    /**
-     * Точка входа в приложение.
-     *
-     * @param args Аргументы командной строки.
-     */
+public class ScannerEx {
+//    /**
+//     * Точка входа в приложение.
+//     *
+//     * @param args Аргументы командной строки.
+//     */
 //    public void show() {
 //        Scanner scanner = new Scanner(System.in);
 //

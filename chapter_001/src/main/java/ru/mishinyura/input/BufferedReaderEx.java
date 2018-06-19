@@ -10,10 +10,10 @@ package ru.mishinyura.input;
  * @author Mishin Yura (mishin.inbox@gmail.com)
  * @since 16.06.2018
  */
-public final class BufferedReaderEx {
-    /**
-     * Метод реализует ввод-вывод в консоль.
-     */
+public class BufferedReaderEx {
+//    /**
+//     * Метод реализует ввод-вывод в консоль.
+//     */
 //    public void read() {
 //        BufferedReader reader = new BufferedReader(
 //                new InputStreamReader(System.in));

@@ -10,7 +10,7 @@ package ru.mishinyura.gson;
  * @author Mishin Yura (mishin.inbox@gmail.com)
  * @since 15.06.2018
  */
-public final class Example {
+public class Example {
     /**
      * Метод демонстрирует сериализацию.
      */
