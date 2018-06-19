@@ -10,7 +10,7 @@ package ru.mishinyura.input;
  * @author Mishin Yura (mishin.inbox@gmail.com)
  * @since 16.06.2018
  */
-public class BufferedReaderEx {
+//public class BufferedReaderEx {
 //    /**
 //     * Метод реализует ввод-вывод в консоль.
 //     */
@@ -30,4 +30,4 @@ public class BufferedReaderEx {
 //            e.printStackTrace();
 //        }
 //    }
-}
+//}

@@ -8,7 +8,7 @@ package ru.mishinyura.input;
  * @author Mishin Yura (mishin.inbox@gmail.com)
  * @since 16.06.2018
  */
-public class ScannerEx {
+//public class ScannerEx {
 //    /**
 //     * Точка входа в приложение.
 //     *
@@ -25,4 +25,4 @@ public class ScannerEx {
 //                "Привет, %s! Тебе %d лет.", name, age));
 //        scanner.close();
 //    }
-}
+//}
