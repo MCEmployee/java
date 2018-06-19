@@ -10,8 +10,11 @@ import com.google.gson.annotations.SerializedName;
  * @author Mishin Yura (mishin.inbox@gmail.com)
  * @since 15.06.2018
  */
-public class Example {
-    public static void main(String[] args) {
+public final class Example {
+    /**
+     * Метод демонстрирует сериализацию.
+     */
+    public void show() {
         Human man = new Human();
         man.setName("Yura");
         man.setAge(18);
@@ -25,6 +28,9 @@ public class Example {
 
     }
 
+    /**
+     * Вспомогательный класс.
+     */
     private static class Human {
         @SerializedName("name")
         @Expose

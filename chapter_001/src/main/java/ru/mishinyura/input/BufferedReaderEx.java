@@ -12,18 +12,9 @@ import java.io.InputStreamReader;
  */
 public final class BufferedReaderEx {
     /**
-     * Конструктор.
+     * Метод реализует ввод-вывод в консоль.
      */
-    private BufferedReaderEx() {
-        throw new UnsupportedOperationException();
-    }
-
-    /**
-     * Точка входа в приложение.
-     *
-     * @param args Аргументы командной строки.
-     */
-    public static void main(final String[] args) {
+    public void read() {
         BufferedReader reader = new BufferedReader(
                 new InputStreamReader(System.in));
 
@@ -35,7 +26,6 @@ public final class BufferedReaderEx {
             System.out.println(String.format(
                     "Привет, %s! Тебе %s лет.", name, sAge));
             reader.close();
-
         } catch (IOException e) {
             e.printStackTrace();
         }
